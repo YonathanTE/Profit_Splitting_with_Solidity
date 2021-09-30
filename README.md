@@ -1,4 +1,4 @@
-## 20-SolidityHW
+## 20
 
 Testnet address for AssociateProfitSplitter.sol:''
 
